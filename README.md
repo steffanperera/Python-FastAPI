@@ -1,1 +1,3 @@
+### Python FastAPI
+
 A collection of concepts, exercises, and project examples focused on building APIs using FastAPI. This repository serves as a learning and reference archive to understand routing, request handling, data validation with Pydantic, response models, error handling, and interactive API documentation using a modern high-performance Python framework.
